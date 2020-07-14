@@ -78,16 +78,3 @@ switched to db users
 
 > show collections
 users
-
-
-
-
-
-
-
-
-
-
-
-
-
